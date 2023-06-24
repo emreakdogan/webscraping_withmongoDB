@@ -30,10 +30,10 @@ Langchain kütüphanesi
    streamlit run app.py
 8. Artık kullanıcılar sorgu atıp, merak ettikleri bilgilere çok rahat bir şekilde erişecektir.
 ## Dizin Açıklamaları
-spiders/: Web kazıma işlemini gerçekleştiren Spider sınıflarının bulunduğu dizin.
-pipelines.py: Kazınan verilerin işlendiği ve MongoDB'ye kaydedildiği işlemlerin yapıldığı pipeline.
-settings.py: Proje ayarlarının yapılandırıldığı dosya.
-app.py: Kullanıcı etkileşimli uygulamının gerçekleştirildiği dosya
+1. spiders/: Web kazıma işlemini gerçekleştiren Spider sınıflarının bulunduğu dizin.
+2. pipelines.py: Kazınan verilerin işlendiği ve MongoDB'ye kaydedildiği işlemlerin yapıldığı pipeline.
+3. settings.py: Proje ayarlarının yapılandırıldığı dosya.
+4. app.py: Kullanıcı etkileşimli uygulamının gerçekleştirildiği dosya
 ## Örnek Çıktılar
 ![1](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/69ad3200-7b8e-470b-a13e-9d4ce0d81c6f)
 
