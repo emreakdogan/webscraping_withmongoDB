@@ -1,6 +1,6 @@
 # Yapay Zeka Destekli Kitap ve Özelliklerini Sorgulama Uygulaması
 ## Proje İçeriği
-Bu proje, Python ve LLM kullanarak web scraping (web kazıma) işlemi gerçekleştiren bir uygulamanın geliştirilmesi hakkında bilgi vermektedir. Bu uygulama, belirli kitap alışveriş sitelerinden kitap ürün verilerini kazıyarak kullanıcılar için  erişilebilir ve sorgulayabilmelerine uygun hale getirmektedir.
+Bu proje SmartMaple Task görevi için , Python ve LLM kullanarak web scraping (web kazıma) işlemi gerçekleştiren bir uygulamanın geliştirilmesi hakkında bilgi vermektedir. Bu uygulama, belirli kitap alışveriş sitelerinden kitap ürün verilerini kazıyarak kullanıcılar için  erişilebilir ve sorgulayabilmelerine uygun hale getirmektedir.
 ## Proje Tanımı
 Proje, Python dilini ve uygun bir web kazıma kütüphanesini kullanarak, belirlenen kitap alışveriş sitelerindeki ürünlerin bilgilerini toplamaktadır. Kazınan veriler MongoDB veritabanı yönetim sistemi kullanılarak depolanmaktadır. Temel görevler şunlardır:
 
