@@ -35,13 +35,12 @@ Langchain kütüphanesi
 3. settings.py: Proje ayarlarının yapılandırıldığı dosya.
 4. app.py: Kullanıcı etkileşimli uygulamının gerçekleştirildiği dosya
 ## Örnek Çıktılar
-![1](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/69ad3200-7b8e-470b-a13e-9d4ce0d81c6f)
+![1](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/a8dd0b9a-b328-47a3-b45a-bf5100845ef0)
+![2](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/05187bf1-723d-42fb-a69e-aaa737fe2295)
+![3](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/f179e1c7-e546-4790-9dee-86e004ed3629)
 
-![2](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/770352e1-e56a-4b67-8fd1-8fa37ed55625)
-![3](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/c5bc5590-7378-4a92-aeb2-84c014175681)
 
 ## MongoDB Çıktıları
-![kk](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/a61a6cea-f117-4f2c-9d94-2bb1f262ae46)
+![kk](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/9708ea12-be84-4c85-85ea-6e6e60703355)
 
-![kkk](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/b62d9b00-0817-42fb-b7b0-40750078d53c)
-
+![kkk](https://github.com/emreakdogan/webscraping_withmongoDB/assets/95315841/4f56a443-9c36-4be1-bc3b-6d8d22aff2d8)
