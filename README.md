@@ -12,11 +12,11 @@ Ekstra Görevler:
 2. LLM kullanarak kullanıcıların istedikleri sorguyu yapabilmelerine olanak tanınmıştır.
 
 # Gereksinimler
-Python 3>
-Scrapy web kazıma kütüphanesi
-MongoDB veritabanı
-Streamlit kütüphanesi
-Langchain kütüphanesi
+1. Python 3>
+2. Scrapy web kazıma kütüphanesi
+3. MongoDB veritabanı
+4. Streamlit kütüphanesi
+5. Langchain kütüphanesi
 ## Kurulum ve Çalıştırma
 1. Proje dosyalarını bilgisayarınıza indirin veya klonlayın.
 2. Gerekli Python kütüphanelerini yükleyin.
